@@ -1,0 +1,86 @@
+body{
+    background: #fdfdfd;
+}
+
+header.page-header{
+    margin: 0;
+}
+
+.navbar{
+    border-radius: 0px;
+}
+
+nav.navbar{
+    margin-bottom: 0;
+}
+
+div#my-slider{
+    /*box-shadow: 3px 3px 8px #0f0f0f;*/
+    margin: 0;
+    padding: 0;
+}
+
+.panel, .form-control, .btn, .btn-group, .thumbnail, .img-thumbnail, .breadcrumb{
+    border-radius: 0 !important;
+}
+
+.img-thumbnail{
+    border: none;
+}
+
+.panel-body{
+    line-height: 20%;
+}
+
+.panel-body .col-xs-12{
+    text-align: center;
+}
+
+footer{
+    color: #8c8c8c;
+    margin-top: 80px;
+}
+
+footer section.footer-main{
+    background: #333333;
+    padding: 25px;
+}
+
+footer section.footer-main p{
+    font-size: small;
+}
+
+footer section.footer-rights{
+    background: #222222;
+    padding: 15px;
+    text-align: center;
+    font-size: smaller;
+}
+
+.form-condensed .control-group {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+td>input[type=number]{
+    height: 50%;
+    padding: 4px;
+}
+
+.red{
+    color: red;
+}
+
+.dn{
+    text-align:center;
+    display: none;
+}
+
+#frm_pp{
+    display:none
+}
+
+.desc{
+    height: 110px;
+    overflow: hidden;
+}

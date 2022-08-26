@@ -1,0 +1,25 @@
+body{
+    background: #fdfdfd;
+    padding-top: 80px;
+}
+
+.sub-header{
+    border-bottom: 1px solid #eee;
+}
+
+.form-control, .btn, .btn-group, .input-group-addon, .breadcrumb, .list-group-item{
+    border-radius: 0 !important;
+}
+
+.form-condensed .control-group {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.red{
+    color: red;
+}
+
+.inactive{
+    color: #8c8c8c;
+}
